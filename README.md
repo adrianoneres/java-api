@@ -1,6 +1,6 @@
 # Java API
 
-A Java bootstrap API.
+A Java API bootstrap.
 
 ## Development configurations
 

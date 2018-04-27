@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<version>1.0</version>
 	<name>Java API</name>
-	<description>A Java bootstrap API</description>
+	<description>A Java API bootstrap</description>
 
 	<properties>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
